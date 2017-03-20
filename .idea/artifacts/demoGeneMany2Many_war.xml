@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="demoGeneMany2Many:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="demoGeneMany2Many.war">
+      <element id="artifact" artifact-name="demoGeneMany2Many:war exploded" />
+    </root>
+  </artifact>
+</component>
